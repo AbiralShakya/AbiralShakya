@@ -1,24 +1,15 @@
-# hey, im abiral
----
-Currently building okkal -> super interested in continous speech processing & audio ml research. 
+# hey, im abiral 🎱
 
-Graph based classification and generative modelling research for topological insualtors @ Princeton Physics. 
+**now**: 
+- building okkal -> interested in continous speech processing & audio ml research.
+- graph based classification and generative modelling research for topological insualtors @ Princeton Physics. 
+#
+**prev**: 
+- intern @ device physics startup
+- software @ frc 6443 - autonomous award at 2024 worlds
+- research in ~ optomechanics simulation, quantum boltzmann machines, spintronic based multi-value logic
 
----
 
-
-
-prev software @ frc 6443 - autonomous award @ 2024 worlds
-
-prev intern @ device physics startup
-
----
-
-also did
-- optomechanical simulations
-- 8-state logic gates via bulk spin orbit coupling
-- quantum boltzmann machines for invertible logic
----
 
 <!---
 AbiralShakya/AbiralShakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
