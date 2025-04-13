@@ -2,7 +2,7 @@
 
 **now**: 
 - building okkal -> interested in continous speech processing & audio ml research.
-- graph based classification and generative modelling research for topological insualtors @ Princeton Physics. 
+- graph based classification and generative modelling research for topological insulators @ Princeton Physics. 
 #
 **prev**: 
 - intern @ device physics startup
