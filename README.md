@@ -1,7 +1,10 @@
 # hey, im abiral
 ---
-currently building okkal, super interested in continous speech processing & audio ml research. graph based classification and generative modelling research for topological insualtors @ princeton physics. 
+Currently building okkal -> super interested in continous speech processing & audio ml research. 
 
+Graph based classification and generative modelling research for topological insualtors @ Princeton Physics. 
+
+---
 
 
 
@@ -9,7 +12,9 @@ prev software @ frc 6443 - autonomous award @ 2024 worlds
 
 prev intern @ device physics startup
 
-in high school I did computational physics and quantum computing research
+---
+
+also did
 - optomechanical simulations
 - 8-state logic gates via bulk spin orbit coupling
 - quantum boltzmann machines for invertible logic
