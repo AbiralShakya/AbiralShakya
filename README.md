@@ -1,9 +1,9 @@
 # hey, im abiral 
 
 **now**: 
-- building okkal -> interested in continous speech processing & audio ml.
+- building in continous speech processing, audio ml, and visualization
 - graph based classification and generative modelling research for topological insulators @ Princeton Physics.
-- learning computer architecture & ml systems
+- learning computer arch & ml systems
 #
 **prev**: 
 - intern @ device physics startup
