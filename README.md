@@ -4,5 +4,5 @@ Incoming sophomore at Princeton concentrating in applied physics and ml ⚡️ P
 
 **now**: 
 - building multimodal infra for speech agents
-- graph-vector classification & physically-acurate generative models of topological insualators @ Princeton Physics
+- graph-vector classification & physically-acurate generative models of topological insulators @ Princeton Physics
 - hardware efficient LLM inference @ Princeton ECE
