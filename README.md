@@ -1,10 +1,13 @@
-# hey, im abiral 🐝
+# what's up, im abiral ! 🐝
 
-interested in deeptech r&d <--> ml, applied physics, computer arch, world&behavior models
-cs and physics at princeton
+interested in deeptech <--> ml, applied physics, computer arch, world & behavior models
+
+princeton cs + physics
 
 **now**: 
-- ml r&d engineer @ stealth
-- accurate 3d geometry reconstruction & learning @ Princeton CS
-- diffusion & perturbed electric fields theory for topological insulators @ Princeton Physics
-- hardware efficient LLM inference & ml systems @ Princeton ECE
+- founding ml r&d engineer @ stealth
+
+**curr research projects @ princeton groups**
+- accurate 3d geometry reconstruction & learning 
+- diffusion & perturbed electric fields theory for topological insulators
+- hardware efficient LLM inference & ml systems
